@@ -7,8 +7,8 @@
     "static/js/4.7d6393d6.chunk.js": "./static/js/4.7d6393d6.chunk.js",
     "static/js/5.681a4f2f.chunk.js": "./static/js/5.681a4f2f.chunk.js",
     "static/js/6.cc987b40.chunk.js": "./static/js/6.cc987b40.chunk.js",
-    "main.js": "./static/js/main.e4bc9c95.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.77626385.js",
+    "main.js": "./static/js/main.a08fe8cd.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.d530cb7b.js",
     "static/css/9.8154fbb8.chunk.css": "./static/css/9.8154fbb8.chunk.css",
     "static/js/9.7a2c508f.chunk.js": "./static/js/9.7a2c508f.chunk.js",
     "static/js/10.a5c91c7c.chunk.js": "./static/js/10.a5c91c7c.chunk.js",
@@ -27,7 +27,7 @@
     "static/js/19.5e7b5a62.chunk.js": "./static/js/19.5e7b5a62.chunk.js",
     "static/js/20.3b3fa2b4.chunk.js": "./static/js/20.3b3fa2b4.chunk.js",
     "static/js/21.3ad97612.chunk.js": "./static/js/21.3ad97612.chunk.js",
-    "static/js/22.4a8f2edd.chunk.js": "./static/js/22.4a8f2edd.chunk.js",
+    "static/js/22.a745c5d8.chunk.js": "./static/js/22.a745c5d8.chunk.js",
     "static/js/23.d0cafe03.chunk.js": "./static/js/23.d0cafe03.chunk.js",
     "static/js/24.333dca47.chunk.js": "./static/js/24.333dca47.chunk.js",
     "static/js/25.7125a98e.chunk.js": "./static/js/25.7125a98e.chunk.js",
@@ -89,9 +89,9 @@
     "static/media/winningSlot3.499c3d94.mp3": "./static/media/winningSlot3.499c3d94.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.77626385.js",
+    "static/js/runtime-main.d530cb7b.js",
     "static/css/9.8154fbb8.chunk.css",
     "static/js/9.7a2c508f.chunk.js",
-    "static/js/main.e4bc9c95.chunk.js"
+    "static/js/main.a08fe8cd.chunk.js"
   ]
 }
