@@ -7,8 +7,8 @@
     "static/js/4.6de60491.chunk.js": "./static/js/4.6de60491.chunk.js",
     "static/js/5.6bf2639d.chunk.js": "./static/js/5.6bf2639d.chunk.js",
     "static/js/6.cc987b40.chunk.js": "./static/js/6.cc987b40.chunk.js",
-    "main.js": "./static/js/main.eedeb8d8.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.ab51f9ce.js",
+    "main.js": "./static/js/main.2abe5424.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.9b95e501.js",
     "static/css/9.8154fbb8.chunk.css": "./static/css/9.8154fbb8.chunk.css",
     "static/js/9.202e17b3.chunk.js": "./static/js/9.202e17b3.chunk.js",
     "static/js/10.b035338a.chunk.js": "./static/js/10.b035338a.chunk.js",
@@ -22,13 +22,13 @@
     "static/js/15.87d3580e.chunk.js": "./static/js/15.87d3580e.chunk.js",
     "static/css/16.0e433876.chunk.css": "./static/css/16.0e433876.chunk.css",
     "static/js/16.c9be4c8b.chunk.js": "./static/js/16.c9be4c8b.chunk.js",
-    "static/js/17.f3113222.chunk.js": "./static/js/17.f3113222.chunk.js",
-    "static/js/18.b2d864bf.chunk.js": "./static/js/18.b2d864bf.chunk.js",
-    "static/js/19.eaad01cc.chunk.js": "./static/js/19.eaad01cc.chunk.js",
-    "static/js/20.ae254d20.chunk.js": "./static/js/20.ae254d20.chunk.js",
+    "static/js/17.62fd996f.chunk.js": "./static/js/17.62fd996f.chunk.js",
+    "static/js/18.a4eeab41.chunk.js": "./static/js/18.a4eeab41.chunk.js",
+    "static/js/19.327aff63.chunk.js": "./static/js/19.327aff63.chunk.js",
+    "static/js/20.d24ac757.chunk.js": "./static/js/20.d24ac757.chunk.js",
     "static/js/21.0110c1d0.chunk.js": "./static/js/21.0110c1d0.chunk.js",
-    "static/js/22.1ee55e56.chunk.js": "./static/js/22.1ee55e56.chunk.js",
-    "static/js/23.1623bff1.chunk.js": "./static/js/23.1623bff1.chunk.js",
+    "static/js/22.7b41c6a5.chunk.js": "./static/js/22.7b41c6a5.chunk.js",
+    "static/js/23.ab748385.chunk.js": "./static/js/23.ab748385.chunk.js",
     "static/js/24.1f4df200.chunk.js": "./static/js/24.1f4df200.chunk.js",
     "static/js/25.d2827a48.chunk.js": "./static/js/25.d2827a48.chunk.js",
     "static/js/26.37de4458.chunk.js": "./static/js/26.37de4458.chunk.js",
@@ -89,9 +89,9 @@
     "static/media/winningSlot3.499c3d94.mp3": "./static/media/winningSlot3.499c3d94.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab51f9ce.js",
+    "static/js/runtime-main.9b95e501.js",
     "static/css/9.8154fbb8.chunk.css",
     "static/js/9.202e17b3.chunk.js",
-    "static/js/main.eedeb8d8.chunk.js"
+    "static/js/main.2abe5424.chunk.js"
   ]
 }
